@@ -1,2 +1,2 @@
 # toong
-exploring data
+Exploring data with python
